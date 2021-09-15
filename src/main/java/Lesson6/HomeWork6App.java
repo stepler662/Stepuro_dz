@@ -24,6 +24,7 @@ public class HomeWork6App {
        dog.DistSwim(7);
        dog1.DistSwim(0);
        dog2.DistSwim(10);
+
     }
 
 }

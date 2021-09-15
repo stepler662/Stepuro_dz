@@ -7,6 +7,7 @@ public class Cats extends Animals {
     }
 
 
+
 @Override
     public void DistSwim(int distSwim){
     System.out.println("Кот не умеет плавать");

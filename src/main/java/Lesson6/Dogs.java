@@ -20,6 +20,7 @@ public Dogs(){
         }
     }
 
+
     @Override
     public void DistRun(int distRun){
         if (distRun > 0 && distRun <= 500) {

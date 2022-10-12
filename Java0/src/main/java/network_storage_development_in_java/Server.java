@@ -51,10 +51,10 @@ private void process (Socket socket) throws IOException {
     OutputStream outputStream = socket.getOutputStream();
 
 
-    int size = inputStream.readInt();
-    byte[] data = new byte[size];
-    inputStream.readFully(data);
+   // int size = inputStream.readInt();
+   // byte[] data = new byte[size];
+   // inputStream.readFully(data);
 
-    System.out.println("Received: " + new );
+    //System.out.println("Received: " + new );
 }
 }
